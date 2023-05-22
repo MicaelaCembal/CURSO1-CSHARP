@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\casaComputacion\bin\Debug\net5.0\casaComputacion.exe
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\casaComputacion\bin\Debug\net5.0\casaComputacion.deps.json
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\casaComputacion\bin\Debug\net5.0\casaComputacion.runtimeconfig.json
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\casaComputacion\bin\Debug\net5.0\casaComputacion.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\casaComputacion\bin\Debug\net5.0\casaComputacion.dll
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\casaComputacion\bin\Debug\net5.0\ref\casaComputacion.dll
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\casaComputacion\bin\Debug\net5.0\casaComputacion.pdb
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\casaComputacion\obj\Debug\net5.0\casaComputacion.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\casaComputacion\obj\Debug\net5.0\casaComputacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\casaComputacion\obj\Debug\net5.0\casaComputacion.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\casaComputacion\obj\Debug\net5.0\casaComputacion.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\casaComputacion\obj\Debug\net5.0\casaComputacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\casaComputacion\obj\Debug\net5.0\casaComputacion.dll
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\casaComputacion\obj\Debug\net5.0\ref\casaComputacion.dll
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\casaComputacion\obj\Debug\net5.0\casaComputacion.pdb
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\casaComputacion\obj\Debug\net5.0\casaComputacion.genruntimeconfig.cache

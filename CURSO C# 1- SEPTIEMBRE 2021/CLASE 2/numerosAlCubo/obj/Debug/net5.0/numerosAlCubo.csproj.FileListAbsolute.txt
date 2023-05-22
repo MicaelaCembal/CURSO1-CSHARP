@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\numerosAlCubo\bin\Debug\net5.0\numerosAlCubo.exe
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\numerosAlCubo\bin\Debug\net5.0\numerosAlCubo.deps.json
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\numerosAlCubo\bin\Debug\net5.0\numerosAlCubo.runtimeconfig.json
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\numerosAlCubo\bin\Debug\net5.0\numerosAlCubo.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\numerosAlCubo\bin\Debug\net5.0\numerosAlCubo.dll
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\numerosAlCubo\bin\Debug\net5.0\ref\numerosAlCubo.dll
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\numerosAlCubo\bin\Debug\net5.0\numerosAlCubo.pdb
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\numerosAlCubo\obj\Debug\net5.0\numerosAlCubo.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\numerosAlCubo\obj\Debug\net5.0\numerosAlCubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\numerosAlCubo\obj\Debug\net5.0\numerosAlCubo.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\numerosAlCubo\obj\Debug\net5.0\numerosAlCubo.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\numerosAlCubo\obj\Debug\net5.0\numerosAlCubo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\numerosAlCubo\obj\Debug\net5.0\numerosAlCubo.dll
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\numerosAlCubo\obj\Debug\net5.0\ref\numerosAlCubo.dll
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\numerosAlCubo\obj\Debug\net5.0\numerosAlCubo.pdb
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\numerosAlCubo\obj\Debug\net5.0\numerosAlCubo.genruntimeconfig.cache

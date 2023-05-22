@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\kilometrosYTiempo\bin\Debug\net5.0\kilometrosYTiempo.exe
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\kilometrosYTiempo\bin\Debug\net5.0\kilometrosYTiempo.deps.json
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\kilometrosYTiempo\bin\Debug\net5.0\kilometrosYTiempo.runtimeconfig.json
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\kilometrosYTiempo\bin\Debug\net5.0\kilometrosYTiempo.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\kilometrosYTiempo\bin\Debug\net5.0\kilometrosYTiempo.dll
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\kilometrosYTiempo\bin\Debug\net5.0\ref\kilometrosYTiempo.dll
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\kilometrosYTiempo\bin\Debug\net5.0\kilometrosYTiempo.pdb
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\kilometrosYTiempo\obj\Debug\net5.0\kilometrosYTiempo.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\kilometrosYTiempo\obj\Debug\net5.0\kilometrosYTiempo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\kilometrosYTiempo\obj\Debug\net5.0\kilometrosYTiempo.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\kilometrosYTiempo\obj\Debug\net5.0\kilometrosYTiempo.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\kilometrosYTiempo\obj\Debug\net5.0\kilometrosYTiempo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\kilometrosYTiempo\obj\Debug\net5.0\kilometrosYTiempo.dll
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\kilometrosYTiempo\obj\Debug\net5.0\ref\kilometrosYTiempo.dll
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\kilometrosYTiempo\obj\Debug\net5.0\kilometrosYTiempo.pdb
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\kilometrosYTiempo\obj\Debug\net5.0\kilometrosYTiempo.genruntimeconfig.cache

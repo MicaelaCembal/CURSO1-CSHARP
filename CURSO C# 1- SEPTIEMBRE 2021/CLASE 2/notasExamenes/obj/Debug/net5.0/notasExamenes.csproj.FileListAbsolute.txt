@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\notasExamenes\bin\Debug\net5.0\notasExamenes.exe
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\notasExamenes\bin\Debug\net5.0\notasExamenes.deps.json
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\notasExamenes\bin\Debug\net5.0\notasExamenes.runtimeconfig.json
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\notasExamenes\bin\Debug\net5.0\notasExamenes.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\notasExamenes\bin\Debug\net5.0\notasExamenes.dll
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\notasExamenes\bin\Debug\net5.0\ref\notasExamenes.dll
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\notasExamenes\bin\Debug\net5.0\notasExamenes.pdb
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\notasExamenes\obj\Debug\net5.0\notasExamenes.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\notasExamenes\obj\Debug\net5.0\notasExamenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\notasExamenes\obj\Debug\net5.0\notasExamenes.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\notasExamenes\obj\Debug\net5.0\notasExamenes.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\notasExamenes\obj\Debug\net5.0\notasExamenes.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\notasExamenes\obj\Debug\net5.0\notasExamenes.dll
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\notasExamenes\obj\Debug\net5.0\ref\notasExamenes.dll
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\notasExamenes\obj\Debug\net5.0\notasExamenes.pdb
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\notasExamenes\obj\Debug\net5.0\notasExamenes.genruntimeconfig.cache

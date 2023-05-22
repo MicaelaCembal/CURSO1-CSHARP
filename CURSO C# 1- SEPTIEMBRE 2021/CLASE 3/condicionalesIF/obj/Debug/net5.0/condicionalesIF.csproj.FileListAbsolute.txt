@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\condicionalesIF\bin\Debug\net5.0\condicionalesIF.exe
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\condicionalesIF\bin\Debug\net5.0\condicionalesIF.deps.json
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\condicionalesIF\bin\Debug\net5.0\condicionalesIF.runtimeconfig.json
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\condicionalesIF\bin\Debug\net5.0\condicionalesIF.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\condicionalesIF\bin\Debug\net5.0\condicionalesIF.dll
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\condicionalesIF\bin\Debug\net5.0\ref\condicionalesIF.dll
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\condicionalesIF\bin\Debug\net5.0\condicionalesIF.pdb
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\condicionalesIF\obj\Debug\net5.0\condicionalesIF.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\condicionalesIF\obj\Debug\net5.0\condicionalesIF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\condicionalesIF\obj\Debug\net5.0\condicionalesIF.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\condicionalesIF\obj\Debug\net5.0\condicionalesIF.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\condicionalesIF\obj\Debug\net5.0\condicionalesIF.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\condicionalesIF\obj\Debug\net5.0\condicionalesIF.dll
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\condicionalesIF\obj\Debug\net5.0\ref\condicionalesIF.dll
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\condicionalesIF\obj\Debug\net5.0\condicionalesIF.pdb
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\condicionalesIF\obj\Debug\net5.0\condicionalesIF.genruntimeconfig.cache

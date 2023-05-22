@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\TP1_CEMBAL\bin\Debug\net5.0\TP1_CEMBAL.exe
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\TP1_CEMBAL\bin\Debug\net5.0\TP1_CEMBAL.deps.json
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\TP1_CEMBAL\bin\Debug\net5.0\TP1_CEMBAL.runtimeconfig.json
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\TP1_CEMBAL\bin\Debug\net5.0\TP1_CEMBAL.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\TP1_CEMBAL\bin\Debug\net5.0\TP1_CEMBAL.dll
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\TP1_CEMBAL\bin\Debug\net5.0\ref\TP1_CEMBAL.dll
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\TP1_CEMBAL\bin\Debug\net5.0\TP1_CEMBAL.pdb
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\TP1_CEMBAL\obj\Debug\net5.0\TP1_CEMBAL.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\TP1_CEMBAL\obj\Debug\net5.0\TP1_CEMBAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\TP1_CEMBAL\obj\Debug\net5.0\TP1_CEMBAL.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\TP1_CEMBAL\obj\Debug\net5.0\TP1_CEMBAL.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\TP1_CEMBAL\obj\Debug\net5.0\TP1_CEMBAL.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\TP1_CEMBAL\obj\Debug\net5.0\TP1_CEMBAL.dll
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\TP1_CEMBAL\obj\Debug\net5.0\ref\TP1_CEMBAL.dll
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\TP1_CEMBAL\obj\Debug\net5.0\TP1_CEMBAL.pdb
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\TP1_CEMBAL\obj\Debug\net5.0\TP1_CEMBAL.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\condicionalesIF5\obj\Debug\net5.0\condicionalesIF5.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\condicionalesIF5\obj\Debug\net5.0\condicionalesIF5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\condicionalesIF5\obj\Debug\net5.0\condicionalesIF5.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\condicionalesIF5\obj\Debug\net5.0\condicionalesIF5.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\condicionalesIF5\obj\Debug\net5.0\condicionalesIF5.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\condicionalesIF5\bin\Debug\net5.0\condicionalesIF5.exe
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\condicionalesIF5\bin\Debug\net5.0\condicionalesIF5.deps.json
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\condicionalesIF5\bin\Debug\net5.0\condicionalesIF5.runtimeconfig.json
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\condicionalesIF5\bin\Debug\net5.0\condicionalesIF5.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\condicionalesIF5\bin\Debug\net5.0\condicionalesIF5.dll
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\condicionalesIF5\bin\Debug\net5.0\ref\condicionalesIF5.dll
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\condicionalesIF5\bin\Debug\net5.0\condicionalesIF5.pdb
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\condicionalesIF5\obj\Debug\net5.0\condicionalesIF5.dll
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\condicionalesIF5\obj\Debug\net5.0\ref\condicionalesIF5.dll
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\condicionalesIF5\obj\Debug\net5.0\condicionalesIF5.pdb
+C:\Users\Usuario\Desktop\CURSOS\CURSO C# 1- SEPTIEMBRE 2021\condicionalesIF5\obj\Debug\net5.0\condicionalesIF5.genruntimeconfig.cache
